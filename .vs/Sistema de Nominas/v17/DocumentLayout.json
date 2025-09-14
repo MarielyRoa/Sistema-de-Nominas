@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|c:\\users\\mariely\\desktop\\programacion ii\\sistema de nominas\\formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:formempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|c:\\users\\mariely\\desktop\\programacion ii\\sistema de nominas\\clases\\empleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:clases\\empleadodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|c:\\users\\mariely\\desktop\\programacion ii\\sistema de nominas\\clases\\empleadobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:clases\\empleadobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|c:\\users\\mariely\\desktop\\programacion ii\\sistema de nominas\\clases\\validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:clases\\validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|c:\\users\\mariely\\desktop\\programacion ii\\sistema de nominas\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|c:\\users\\mariely\\desktop\\programacion ii\\sistema de nominas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|c:\\users\\mariely\\desktop\\programacion ii\\sistema de nominas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971B5460-59EE-4C39-B6BA-9570241A3705}|Sistema de Nominas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoBase.cs",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Clases\\EmpleadoBase.cs",
+              "RelativeDocumentMoniker": "Clases\\EmpleadoBase.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Clases\\EmpleadoBase.cs",
+              "RelativeToolTip": "Clases\\EmpleadoBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T05:39:08.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T05:04:09.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T05:04:04.071Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Clases\\Validaciones.cs",
+              "RelativeDocumentMoniker": "Clases\\Validaciones.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Clases\\Validaciones.cs",
+              "RelativeToolTip": "Clases\\Validaciones.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T05:03:09.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoDB.cs",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Clases\\EmpleadoDB.cs",
+              "RelativeDocumentMoniker": "Clases\\EmpleadoDB.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Clases\\EmpleadoDB.cs",
+              "RelativeToolTip": "Clases\\EmpleadoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T05:02:06.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reportes.cs",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Reportes.cs",
+              "RelativeDocumentMoniker": "Reportes.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Reportes.cs",
+              "RelativeToolTip": "Reportes.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:18:42.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Reportes.cs",
+              "RelativeDocumentMoniker": "Reportes.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\Reportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:18:40.789Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\FormEmpleados.cs",
+              "RelativeDocumentMoniker": "FormEmpleados.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\FormEmpleados.cs",
+              "RelativeToolTip": "FormEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:18:22.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\FormEmpleados.cs",
+              "RelativeDocumentMoniker": "FormEmpleados.cs",
+              "ToolTip": "C:\\Users\\Mariely\\Desktop\\Programacion II\\Sistema de Nominas\\FormEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:18:19.8Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

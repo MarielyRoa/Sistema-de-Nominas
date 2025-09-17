@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos de depuración
+*.pdb
+*.exe
+*.dll
+*.cache
+
+# Archivos generados por Visual Studio
+*.db
+*.bak
+*.log
+*.vsix
+*.ncrunch*
+*.resharper*
+
+# Archivos de cobertura de pruebas
+*.coverage
+*.coveragexml
+*.trx
+
+# Rider IDE
+.idea/
+
+# Otros archivos temporales
+*.tmp
+*.swp
